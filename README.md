@@ -4,13 +4,11 @@
 A long time ago, in a galaxy far, far away...
 ```
 
-# GUSTHAVO EDUARDO LIMA
+# Gusthavo Eduardo Lima
 
-**`Jedi Padawan do Desenvolvimento de Software`**
+**Jedi Padawan do Desenvolvimento · UFPI · Teresina, PI**
 
-*Estudante de Ciência da Computação @ UFPI · Técnico em Informática @ IFPI · Teresina, PI*
-
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/GusthavoEduardoLima)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFE81F&center=true&vCenter=true&width=500&lines=Python+%26+Django+Developer;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Sempre+aprendendo%2C+sempre+codando;May+the+code+be+with+you+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,52 +16,62 @@ A long time ago, in a galaxy far, far away...
 
 > *"Do or do not. There is no try."* — Yoda
 
-Desenvolvedor em formação, apaixonado por construir coisas que funcionam — e entender por que às vezes não funcionam. Transito bem entre backend e frontend, gosto de ambiente de aprendizado constante e levo o desenvolvimento a sério sem perder a diversão no processo.
+Desenvolvedor que se diverte resolvendo problemas reais. Gosto de explorar tecnologias diferentes, construir coisas do zero e entender como tudo funciona por baixo dos panos.
 
 ---
 
-## Habilidades
-
-**Backend**
-`Python` · `Django` · `Django CMS` · `Java` · `C` · `.NET`
-
-**Frontend**
-`HTML` · `JavaScript` · `Bootstrap` · `Tailwind CSS`
-
-**Mobile & Infra**
-`Flutter` · `Docker`
-
----
-
-## GitHub
+## 🛸 Arsenal tecnológico
 
 <div align="center">
 
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=GusthavoEduardoLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffe81f&icon_color=ffe81f&text_color=c9d1d9"/>
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusthavoEduardoLima&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffe81f&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GusthavoEduardoLima&theme=dark&hide_border=true&background=0d1117&ring=ffe81f&fire=ffe81f&currStreakLabel=ffe81f)](https://git.io/streak-stats)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffe81f)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=ffe81f)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ffe81f)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ffe81f)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ffe81f)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=ffe81f)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=ffe81f)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=ffe81f)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=ffe81f)
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=ffe81f)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=ffe81f)
 
 </div>
 
 ---
 
-## Em andamento
+## 📡 Stats
 
-- Aprofundando arquitetura de software e design patterns
-- Estudando boas práticas com Django REST Framework
-- Explorando containerização com Docker em projetos reais
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GusthavoEduardoLima&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffe81f&icon_color=ffe81f&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusthavoEduardoLima&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=ffe81f&text_color=c9d1d9"/>
+
+</div>
+
+---
+
+## 🌌 Contribuições (a galáxia do meu GitHub)
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/GusthavoEduardoLima/GusthavoEduardoLima/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🔭 No momento...
+
+- 📖 Estudando design patterns e arquitetura de software
+- 🐳 Containerizando projetos com Docker
+- 🌐 Construindo aplicações web com Django REST Framework
+- 🚀 Sempre com um projeto novo na cabeça
 
 ---
 
 <div align="center">
 
-*May the code be with you.*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=GusthavoEduardoLima&color=ffe81f&style=flat-square&label=visitors)
+*May the code be with you.* ⚡
 
 </div>

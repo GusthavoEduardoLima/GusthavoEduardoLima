@@ -40,17 +40,6 @@ Desenvolvedor que se diverte resolvendo problemas reais. Gosto de explorar tecno
 
 ---
 
-## 📡 Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GusthavoEduardoLima&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffe81f&icon_color=ffe81f&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusthavoEduardoLima&layout=compact&langs_count=7&hide_border=true&bg_color=0d1117&title_color=ffe81f&text_color=c9d1d9"/>
-
-</div>
-
----
-
 ## 🌌 Contribuições (a galáxia do meu GitHub)
 
 <div align="center">
@@ -63,10 +52,10 @@ Desenvolvedor que se diverte resolvendo problemas reais. Gosto de explorar tecno
 
 ## 🔭 No momento...
 
-- 📖 Estudando design patterns e arquitetura de software
+- 📖 Estudando arquitetura de software
 - 🐳 Containerizando projetos com Docker
 - 🌐 Construindo aplicações web com Django REST Framework
-- 🚀 Sempre com um projeto novo na cabeça
+
 
 ---
 
